@@ -2,14 +2,18 @@
 Command your starship
 
 ## About
-Control your starship while playing space nerds in space: https://github.com/smcameron/space-nerds-in-space (echo commands to /tmp/snis-natural-language-fifo)
+Control your starship while playing Space Nerds In Space: https://github.com/smcameron/space-nerds-in-space (echo commands to /tmp/snis-natural-language-fifo)
 
 ## Examples
-* "Engage warp"
-* "Shields up"
-* "Shields down"
-* "Set impulse {impulse} percent"
-* "Starbase"
+* "Engage warp drive"
+
+* "Shields {down|up}"
+
+* "{Navigate to|Target} nearest {asteroid|starbase}"
+
+* "Disembark to {port|starboard}"
+
+* "Begin patrol"
 
 ## Credits
 spaceshipoperator
